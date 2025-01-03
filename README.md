@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maryam-attariya
-- 👋 Hi, I’m Maryam-attariya
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
