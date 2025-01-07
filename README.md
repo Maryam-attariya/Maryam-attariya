@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maryam attariya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamattariya&label=Profile%20views&color=0e75b6&style=flat" alt="maryamattariya" /> </p>
+<h3 align="center">Problem solving</h3>
 
-- 🌱 I’m currently learning **Web and App development**
+- 🔭 I’m currently learning **Web and App development**
+
+- 🌱 I’m currently learning **Html**
 
 - 📫 How to reach me **maryamattariya2008@gmail.com**
 
