@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam attariya</h1>
-<h3 align="center">Problem solving</h3>
+<h3 align="center">Computer Science Student</h3>
 
 - 🔭 I’m currently learning **Web and App development**
 
@@ -8,6 +8,8 @@
 - 📫 How to reach me **maryamattariya2008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+**maryamattariya2008@gmail.com**
+
 <p align="left">
 </p>
 
