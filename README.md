@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maryam attariya</h1>
 <h3 align="center">Computer Science Student</h3>
+<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="400">
 
 - 🔭 I’m currently learning **Web and App development**
 
