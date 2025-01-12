@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maryam attariya</h1>
 <h3 align="center">Computer Science Student</h3>
-- 🔭 I’m currently learning **Web and App development** <br/>
+- 🔭 I’m currently learning Web and App development <br/>
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="400">
 -🌱 I'm currently working on my Assignments <br/>
 -👩‍💻 All of my projects are available at Github profile <br/>
-- 📫 How to reach me **maryamattariya2008@gmail.com**
+- 📫 How to reach me <address mailto: maryamattariya2008@gmail.com>maryamattariya2008@gmail.com</addres>
 <h3 align="left">Connect with me:</h3>
 **maryamattariya2008@gmail.com**
 <p align="left">
