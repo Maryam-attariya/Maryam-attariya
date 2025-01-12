@@ -2,6 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 - 🔭 I’m currently learning **Web and App development**
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="400">
+🌱 I'm currently working on my Assignments
 - 📫 How to reach me **maryamattariya2008@gmail.com**
 <h3 align="left">Connect with me:</h3>
 **maryamattariya2008@gmail.com**
