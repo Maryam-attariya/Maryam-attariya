@@ -19,24 +19,25 @@
 
 <table>
   <tr>
-    <!-- LinkedIn -->
-    <td style="padding-right:15px;">
+    <td>
       <a href="https://www.linkedin.com/in/maryam-attariya-737893347/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
       </a>
     </td>
 
-    <!-- GitHub -->
-    <td style="padding-right:15px;">
+    <td width="15"></td>
+
+    <td>
       <a href="https://github.com/Maryam-attariya" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
       </a>
     </td>
 
-    <!-- Email -->
+    <td width="15"></td>
+
     <td>
       <a href="mailto:maryamattariya2008@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" width="45"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
       </a>
     </td>
   </tr>
