@@ -16,9 +16,31 @@
 - ⚡ Fun fact **I love building websites**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maryam-attariya-737893347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-attariya-737893347/" height="30" width="40" /></a>
-</p>
+
+<table>
+  <tr>
+    <!-- LinkedIn -->
+    <td style="padding-right:15px;">
+      <a href="https://www.linkedin.com/in/maryam-attariya-737893347/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
+      </a>
+    </td>
+
+    <!-- GitHub -->
+    <td style="padding-right:15px;">
+      <a href="https://github.com/Maryam-attariya" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="35" width="45"/>
+      </a>
+    </td>
+
+    <!-- Email -->
+    <td>
+      <a href="mailto:maryamattariya2008@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" width="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
