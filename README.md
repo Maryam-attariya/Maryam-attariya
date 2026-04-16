@@ -15,21 +15,6 @@
 
 - ⚡ Fun fact **I love building websites**
 
-<h3 align="left">Connect with me:</h3>
-
-<table>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/maryam-attariya-737893347/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a></td>
-
-    <td width="20"></td>
-
-    <td><a href="https://github.com/Maryam-attariya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/></a></td>
-
-    <td width="20"></td>
-
-    <td><a href="mailto:maryamattariya2008@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/></a></td>
-  </tr>
-</table>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
@@ -41,3 +26,24 @@
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/></td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maryam-attariya">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:maryamattariya2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-attariya&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
