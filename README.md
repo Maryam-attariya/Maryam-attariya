@@ -17,32 +17,23 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/maryam-attariya-737893347/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
-      </a>
-    </td>
+<p align="left">
+  <a href="https://www.linkedin.com/in/maryam-attariya-737893347/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
+  </a>
 
-    <td width="15"></td>
+  &nbsp;&nbsp;
 
-    <td>
-      <a href="https://github.com/Maryam-attariya" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-      </a>
-    </td>
+  <a href="https://github.com/Maryam-attariya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
+  </a>
 
-    <td width="15"></td>
+  &nbsp;&nbsp;
 
-    <td>
-      <a href="mailto:maryamattariya2008@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+  <a href="mailto:maryamattariya2008@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" />
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
