@@ -13,21 +13,30 @@
 
 - ⚡ Fun fact **I love building websites**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap">
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma">
 </p>
+
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://github.com/Maryam-attariya">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
+
   <a href="mailto:maryamattariya2008@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/maryam-attariya-737893347/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 <p align="center">
