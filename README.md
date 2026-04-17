@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Attariya</h1>
-<h3 align="center">💻 Front-End Web Developer | HTML, CSS, Bootstrap,javascript Learner</h3>
+<h3 align="center">💻 Front-End Web Developer | HTML, CSS, Bootstrap, JavaScript Learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-attariya" alt="maryam-attariya" /></a> </p>
-
-- 🔭 I’m currently working on **Learning JavaScript**
 
 - 🌱 I’m currently learning **JavaScript & Web Development**
 
@@ -35,6 +33,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-attariya&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryam-attariya&show_icons=true&theme=tokyonight" />   </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
