@@ -48,7 +48,9 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryam-attariya&show_icons=true&theme=tokyonight" />   </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-attariya&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
