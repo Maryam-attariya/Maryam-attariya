@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=200&section=header&text=Front-End%20Developer&fontSize=35&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Maryam Attariya</h1>
-<h3 align="center">💻 Front-End Web Developer | HTML, CSS, Bootstrap, JavaScript Learner</h3>
+<h3 align="center">💻 Front-End Web Developer | Learning HTML, CSS, Bootstrap & JavaScript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-attariya" alt="maryam-attariya" /></a> </p>
 
